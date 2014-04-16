@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2014-04-16T17:43:00Z</updated><entry><title>5 Awesome things I learned at Pycon 2014</title><link href="/5-awesome-things-i-learned-at-pycon2014.html" rel="alternate"></link><updated>2014-04-16T17:43:00Z</updated><author><name></name></author><id>tag:,2014-04-16:5-awesome-things-i-learned-at-pycon2014.html</id><summary type="html">&lt;div class="section" id="a-community-diversity"&gt;
+&lt;h2&gt;a. Community Diversity&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="b-angularjs-is-a-thing"&gt;
+&lt;h2&gt;b. AngularJS is a Thing&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="c-how-sprints-work"&gt;
+&lt;h2&gt;c. How Sprints Work&lt;/h2&gt;
+&lt;/div&gt;
+</summary><category term="pycon"></category></entry></feed>
